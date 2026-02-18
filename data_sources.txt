@@ -1,0 +1,8 @@
+Datasets used in this project:
+
+- UK Office for National Statistics (ONS)
+- UK Broadband Coverage Open Data
+- Public banking branch location dataset
+- Transport network data
+
+All datasets are publicly available.
